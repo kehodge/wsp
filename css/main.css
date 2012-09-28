@@ -1,0 +1,35 @@
+/*-- Body styling --*/
+
+body{
+    width:900px;
+    margin:0 auto;
+    border: solid 8px;
+    background-color:tan;
+
+
+}
+
+h2, p{
+    padding-left :45px;
+    padding-right:45px;
+    
+}
+
+h2{
+    color:Blue;
+    text-shadow:2px 2px 2px black;
+    font-size:1.875em;/*30px/16px*/
+    text-decoration:underline;
+}
+
+
+/*--Heading Editing--*/
+
+ul span{
+    color:blue;
+    text-shadow:3px 3px 3px black;
+}
+
+#info{
+    font-size:2.1875em;/*35px/16px*/
+    list-style-type:none;
